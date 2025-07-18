@@ -14,7 +14,10 @@
     "type": "file",
     "url": "lib/xcraft-contrib-portal"
   },
-  "author": "Xcraft Team",
+  "author": "Epsitec SA",
+  "contributors": [
+    "Mathieu Schroeter <schroeter@epsitec.ch>"
+  ],
   "license": "MIT",
   "config": {
     "xcraft": {
